@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/my-app141122.iml" filepath="$PROJECT_DIR$/.idea/my-app141122.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../typescript-mobx-react/.idea/typescript-mobx-react.iml" filepath="$PROJECT_DIR$/../typescript-mobx-react/.idea/typescript-mobx-react.iml" />
+    </modules>
+  </component>
+</project>
